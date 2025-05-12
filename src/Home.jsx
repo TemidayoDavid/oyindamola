@@ -19,7 +19,7 @@ export default function Home() {
               </div>
             </div>
             <div className="hero_image">
-              <img src="/src/assets/oyin11.png" alt="hero image" className="hero_img" />
+              <img src="/assets/others/oyin11.png" alt="hero image" className="hero_img" />
             </div>
         </section>
         <section className="intro_section">
@@ -35,13 +35,13 @@ export default function Home() {
           </div>
           <div className="intro_images">
             <div className="intro_image">
-              <img src="/src/assets/introImages/introIMG1.jpg" alt="intro image" className="intro_img" />
+              <img src="/assets/introImages/introIMG1.jpg" alt="intro image" className="intro_img" />
             </div>
              <div className="intro_image">
-              <img src="/src/assets/introImages/introIMG2.jpg" alt="intro image" className="intro_img" />
+              <img src="/assets/introImages/introIMG2.jpg" alt="intro image" className="intro_img" />
             </div>
              <div className="intro_image">
-              <img src="/src/assets/introImages/introIMG3.jpg" alt="intro image" className="intro_img" />
+              <img src="/assets/introImages/introIMG3.jpg" alt="intro image" className="intro_img" />
             </div>
           </div>
           <div className="outro_text">
